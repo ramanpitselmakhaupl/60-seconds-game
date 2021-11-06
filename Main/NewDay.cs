@@ -13,6 +13,7 @@ namespace Main
         {
             int day = i; //day counter
             int rand = rndm;
+        // hi world
            // scbhjksdgvsenf
 
             Console.ForegroundColor = ConsoleColor.Cyan;
