@@ -13,7 +13,7 @@ namespace Main
         {
             int day = i; //day counter
             int rand = rndm;
-        
+         //sdgrg
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("                                       Day {0} ", day);
