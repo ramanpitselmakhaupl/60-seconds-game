@@ -19,7 +19,7 @@ namespace Main
             Console.WriteLine("                                       Day {0} ", day);
             
             Console.ResetColor();
-
+              //test 1
             //Events
             if (rand == 1)
             {
