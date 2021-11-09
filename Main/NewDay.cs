@@ -13,8 +13,8 @@ namespace Main
         {
             int day = i; //day counter
             int rand = rndm;
-        // hi world
-           // scbhjksdgvsenf
+        
+            //aa&&&
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("                                       Day {0} ", day);
